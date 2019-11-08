@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+}
+
+div.crew-member {
+  margin: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  background: #F8F6F6;
+}
+
+img.crew-member {
+  border: 1px solid black;
+  margin-top: 0;
+}

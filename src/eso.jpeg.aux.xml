@@ -1,0 +1,26 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="COMPRESSION">JPEG</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+  </Metadata>
+  <Metadata>
+    <MDI key="COMMENT">This dramatic infrared image shows the nearby star formation region Monoceros R2, located some 2700 light-years away in the constellation of Monoceros (the Unicorn). The picture was created from exposures in the near infrared bands Y, J and Ks taken by the VISTA survey telescope at ESO’s Paranal Observatory. Monoceros R2 is an association of massive hot young stars illuminating a beautiful collection of reflection nebulae, embedded in a large molecular cloud. This image is available as a mounted image in the ESOshop.</MDI>
+    <MDI key="EXIF_ImageDescription">This dramatic infrared image shows the nearby star formation region Monoceros R2, located some 2700 light-years away in the constellation of Monoceros (the Unicorn). The picture was created from exposures in the near infrared bands Y, J and Ks taken by the VISTA survey telescope at ESO’s Paranal Observatory. Monoceros R2 is an association of massive hot young stars illuminating a beautiful collection of reflection nebulae, embedded in a large molecular cloud. This image is available as a mounted image in the ESOshop.</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
