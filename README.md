@@ -1,6 +1,6 @@
 # Zoomable space image
 
-This zoomable space image was created as part of a University project. It is uploaded here mainly for documentary purposes. It was inspired by this [Blog Post](https://build-failed.blogspot.com/2012/11/zoomable-image-with-leaflet.html).
+This zoomable space image was created as part of a University project. It is uploaded here mainly for documentary purposes. It was inspired by this [blog post](https://build-failed.blogspot.com/2012/11/zoomable-image-with-leaflet.html) on Pedro's Tech Mumblings.
 
 To run, start a local server, for example with Python: `python -m http.server 8000` and visit localhost:8000 in your browser.
 
